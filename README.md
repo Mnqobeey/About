@@ -105,4 +105,3 @@
 ## 📬 Let’s Collaborate
 If you’re building something in AI, web, testing, or simulation — let’s talk.
 
-⭐ If you like my work, consider starring a repo — it helps a lot.
