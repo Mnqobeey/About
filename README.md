@@ -27,7 +27,7 @@ A demo focused on interactive simulation logic + workflows.
 - ✅ Modular logic for extending to more scenarios
 - ✅ Clear structure + reusable components
 
-**Repo:** YOUR_REPO_LINK
+**Repo:**  https://nexera-text-to-3d.vercel.app/
 
 ---
 
