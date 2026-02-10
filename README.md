@@ -17,6 +17,7 @@ A prompt-to-3D prototype that generates and visualizes objects in a 3D scene.
 - ✅ Designed for extending into simulation workflows
 
 **Demo:** https://nexera-text-to-3d.vercel.app/
+
 **Repo:** https://github.com/Mnqobeey/Simulation
 
 ---
